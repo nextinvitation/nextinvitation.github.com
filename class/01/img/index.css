@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.box{
+}
+#b0{
+    text-align: center;
+    margin: 10px;
+    width:360px;
+    height:120px;
+    border:#000000 solid 1px ;
+}
+/*#b1{
+    position: absolute;
+    margin: 10px;
+    width:100px;
+    height:100px;
+    background: #ff6600;
+}
+#b5{
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 10px;
+    width:100px;
+    height:100px;
+    background: #ff6600;
+}
+#b6{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 10px;
+    width:100px;
+    height:100px;
+    background: #ff6600;
+}*/
+#b2{
+    width:100px;
+    height:100px;
+    background: #ff6600;
+
+}

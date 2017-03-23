@@ -1,0 +1,27 @@
+#tbl
+{
+    width: 500px;
+    height: 200px;
+    border-collapse:separate;
+    border-spacing:10px;
+    border:#000000 solid 2px ;
+}
+.td
+{
+    display: inline-block;
+    background: #888888;
+    width:80px;
+    height: 80px;
+    float: left;
+}
+.news {
+    background-color: gray;
+    border: solid 1px black;
+}
+.news p {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+
